@@ -1,8 +1,9 @@
-# Type & Summon 提出用 README
+# Type & Summon
 
 ## 概要
 
 Type & Summon は、Java Swing と TCP/HTTP 通信で動作するリアルタイムタイピングゲームです。
+素直に白状すると、課題のために作成した寿司打の対戦版です。
 
 | 項目 | 内容 |
 |------|------|
