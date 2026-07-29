@@ -276,7 +276,7 @@ API_BASE_URL=http://localhost:8080
 
 ## 素材クレジット
 
-- レベル別モンスター画像: [モンスター素材屋さん](http://sozai.creature-ya.com/)（非商用・クレジット表記必須）
+- レベル別モンスター画像: [モンスター素材屋さん](http://sozai.creature-ya.com/)
 - ボス画像: `client/assets/bossbattle/`
 - BGM: 濱谷 康生がSunoを利用して制作したオリジナル楽曲
 - BGM/SE: `client/assets/audio/`（ファイルごとの用途は audio README 参照）
@@ -289,6 +289,3 @@ API_BASE_URL=http://localhost:8080
 
 ---
 
-## 共同開発
-
-グループで編集する場合は、`main` を直接変更せず、作業ごとにブランチと Pull Request を使うことを推奨します。詳しい手順は [CONTRIBUTING.md](CONTRIBUTING.md) を参照してください。
