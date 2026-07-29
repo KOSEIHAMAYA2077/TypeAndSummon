@@ -1,0 +1,25 @@
+# OS metadata
+.DS_Store
+__MACOSX/
+._*
+
+# Local environment files
+.env
+*.env
+!.env.example
+
+# Java build output
+*.class
+build/
+out/
+target/
+
+# Runtime data and logs
+server/data/game_server.db
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
